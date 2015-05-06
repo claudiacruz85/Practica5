@@ -1,0 +1,8 @@
+D:\3er. semestre\Practica5\bin\Debug\Practica5.exe.config
+D:\3er. semestre\Practica5\bin\Debug\Practica5.exe
+D:\3er. semestre\Practica5\bin\Debug\Practica5.pdb
+D:\3er. semestre\Practica5\obj\Debug\Practica5.csprojResolveAssemblyReference.cache
+D:\3er. semestre\Practica5\obj\Debug\Practica5.exe
+D:\3er. semestre\Practica5\obj\Debug\Practica5.pdb
+D:\3er. semestre\Practica5\obj\Debug\Practica5.MainForm.resources
+D:\3er. semestre\Practica5\obj\Debug\Practica5.csproj.GenerateResource.Cache
